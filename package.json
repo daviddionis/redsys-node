@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
